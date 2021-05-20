@@ -1,0 +1,77 @@
+#Last-Results{
+	position: relative;
+	text-align: center;
+	border:2px solid #571C1F;
+	width: 60%;
+    margin: 120px auto;
+}
+
+.Score{
+	background-color: gray;
+	margin: 70px;
+	box-shadow: 60px -16px teal;
+}
+
+.Score img {
+	position: absolute;
+	top: 50%;
+}
+
+.Score h2{
+	font: 1rem Verdana, sans-serif;
+	position: absolute;
+	top: 65%;
+	margin: 0px;
+}
+
+.Score .Time1 img{
+	position: absolute;
+	left: 0px;
+}
+
+.Score .Time1 h2{
+	left: 150px;
+}
+
+.Score .Time2 h2{
+	right: 150px;	
+}
+
+.Score .Time2 img{
+	right: 0px;
+}
+
+.Score .Points .PT1{
+	right: 40%;
+}
+
+.Score .Points .PT2{
+	left: 40%;
+}
+
+.Score .Points p{
+	position: absolute;
+	font: 1rem Verdana, sans-serif;
+	right: 50%;
+	top:65%;
+	margin: 0px;
+}
+
+.Title {
+	position: relative;
+	color: #571C1F;
+	font: 1.7rem Verdana, sans-serif;
+	background-size:auto;
+	background-color: white;
+	top: -10px; 
+	padding: 0px 20px;
+	margin: 0px;
+}	
+
+h2{
+	font-size: 1rem;
+}
+
+p{
+	font-size: 0.7rem;
+}
