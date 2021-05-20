@@ -6,6 +6,8 @@ Nesse projeto-estudo, tentei reproduzir um HotSite especifico para que eu possa 
 
 Ainda não está completo, porém consegui reproduzir com sucesso as primeiras duas partes, tornando-as muito proxima da original
 
+NOTA: a imagem com o layout original do site está na primeira pasta com o nome de "Layout".
+
 
 
 //TODO
